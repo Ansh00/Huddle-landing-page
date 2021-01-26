@@ -81,3 +81,7 @@
     color: #e880e8;
     border: 2px solid #e880e8;
   }
+  .register button:hover {
+    color: #fff;
+    background-color: #250feb;
+  }
