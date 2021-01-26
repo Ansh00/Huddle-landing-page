@@ -19,3 +19,12 @@
   nav img {
     width: 7.5em;
   }
+
+  .main {
+    text-align: center;
+    margin-top: 3.25em;
+  }
+  
+  figure img {
+    width: 100%;
+  }
