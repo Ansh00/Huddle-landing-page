@@ -1,0 +1,21 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  body {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    background-image: url("/images/bg-mobile.svg");
+    background-color: #684bb1;
+    background-repeat: no-repeat;
+    background-size: contain;
+    color: #fff;
+    text-rendering: optimizeLegibility;
+    padding: 2.25em;
+  }
+  nav img {
+    width: 7.5em;
+  }
