@@ -85,3 +85,58 @@
     color: #fff;
     background-color: #250feb;
   }
+  .register button:active {
+    box-shadow: 0 5px rgba(0, 0, 0, 0.269022);
+    transform: translateY(4px);
+  }
+
+
+
+/*media queries*/
+
+
+@media screen and (min-width: 1200px) {
+    body {
+      background-image: url("/images/bg-desktop.svg");
+      background-size: cover;
+      padding: 5.3125em;
+      height: 100vh;
+      overflow: hidden;
+    }
+  
+    nav img {
+      width: 12.5em;
+    }
+  
+    .main {
+      display: flex;
+      justify-content: space-between;
+      margin-top: 5em;
+    }
+  
+    figure {
+      width: 55%;
+    }
+  
+    .register {
+      width: 41%;
+      text-align: left;
+    }
+  
+    .register h1 {
+      font-size: 2.5rem;
+    }
+  
+    .register p {
+      font-size: 1.125rem;
+    }
+  
+    footer {
+      display: flex;
+      flex-direction: row-reverse;
+      justify-content: initial;
+      margin-top: initial;
+    }
+  }
+
+
