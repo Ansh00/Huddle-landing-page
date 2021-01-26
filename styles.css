@@ -53,4 +53,31 @@
     cursor: pointer;
     transition: 0.2s;
   }
+  footer {
+    display: flex;
+    justify-content: center;
+    margin-top: 4em;
+  }
   
+  .socials {
+    display: flex;
+    justify-content: space-between;
+    width: 9em;
+  }
+  
+  .icon {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 2px solid #fff;
+    border-radius: 50%;
+    height: 2.25em;
+    width: 2.25em;
+    transition: 0.2s;
+  }
+  
+  .icon:hover {
+    cursor: pointer;
+    color: #e880e8;
+    border: 2px solid #e880e8;
+  }
