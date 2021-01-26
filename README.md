@@ -1,3 +1,7 @@
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=Ansh00/Huddle-landing-page)
+ 
+
+
 # Frontend Mentor - Huddle landing page with single introductory section
 
 ![Design preview for the Huddle landing page with single introductory section](./design/desktop-preview.jpg)
